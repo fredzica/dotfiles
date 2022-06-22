@@ -1,0 +1,12 @@
+Files in this folder are located in ~/.config/nvim/
+
+coc extensions:
+* coc-prettier 9.2.3 ~/.config/coc/extensions/node_modules/coc-prettier
+  + coc-yaml 1.7.5 ~/.config/coc/extensions/node_modules/coc-yaml
+  + coc-pyright 1.1.231 ~/.config/coc/extensions/node_modules/coc-pyright
+  + coc-json 1.4.1 ~/.config/coc/extensions/node_modules/coc-json
+  + coc-docker 0.5.0 ~/.config/coc/extensions/node_modules/coc-docker 
+
+python tools to be installed:
+- python3 -m pip install black flake8
+
